@@ -1,4 +1,4 @@
-file=('C:\\Users\\Josue\\Desktop\\paragraph_1.txt')
+file=os.path.join('..','Desktop','paragraph_1.txt')
 lines =0
 nwords =0
 nsent=0
